@@ -1,0 +1,3 @@
+# USA.Gov Data From Bitly
+
+This is an exercise that details the partnership between the US government and Bitly. The contract provided a feed of anonymous data collected from users who shorted website links ending with .gov or .mil. Hourly snapshots were provided as well as downloadable text files. Unfortunately, the project is no longer active between the two entities. This is an exercise to delve into what was collected amongst users. If there are any questions or concerns the author may be contacted to discuss analysis and methodology.
